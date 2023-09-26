@@ -1,0 +1,12 @@
+{
+  "name": "unit-test-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seeliang/unit-test-solutions.git",
+  "author": "See way Liang <hi@sihuiliang.com>",
+  "private": true,
+  "workspaces": [
+    "solutions/**"
+  ],
+  "license": "MIT"
+}
